@@ -1,5 +1,5 @@
 --
--- Copyright (C) 2004 University XYZ
+-- Copyright (C) 2004 University Carlos III de Madrid 
 --
 --  This file is part of dotLRN.
 --
@@ -16,9 +16,9 @@
 --
 --   Procedures to support the dotlrn datamanager
 --
---   @author YYY ZZZ (YYY.ZZZ@xx.yy)
---   @creation-date 2004-10-10
---   @version $Id: dotlrn-datamanager-create.sql,v 0.1 2004/10/10
+--   @author Luis de la Fuente (lfuente@it.uc3m.es)
+--   @creation-date 2005-07-07
+--   @version $Id: dotlrn-datamanager-create.sql,v 0.1 2005/07/07
 
 -- create the implementation
 select acs_sc_impl__new (

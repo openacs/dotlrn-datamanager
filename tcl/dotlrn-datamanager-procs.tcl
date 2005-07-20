@@ -1,5 +1,5 @@
 #
-#  Copyright (C) 2004 University XYZ
+#  Copyright (C) 2004 University Carlos III 
 #
 #  This file is part of dotLRN.
 #
@@ -18,9 +18,9 @@ ad_library {
 
     Procs to set up the dotLRN datamanager applet
 
-    @author YYY ZZZ (YYY.ZZZ@xx.yy)
-    @creation-date 2004-10-10
-    @version $Id: dotlrn-datamanager-procs.tcl,v 0.1 2004/10/10
+    @author Luis de la Fuente (lfuente@it.uc3m.es)
+    @creation-date 2005-07-07
+    @version $Id: dotlrn-datamanager-procs.tcl,v 0.1 2005/07/07
 
 }
 
